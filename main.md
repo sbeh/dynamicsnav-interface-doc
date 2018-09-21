@@ -6,7 +6,7 @@ mich
 |-|-|
 |schreib|mir|
 1. etwas
-1. ![image](image/doku.png)![image](image/hast%20du.png)
+1. ![image](image/doku.png)
     1. ?
     1. !
 * *gern*
